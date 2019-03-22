@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DrawyerLayout</string>
+    <string-array name="planets">
+
+        <item> AA</item>
+
+        <item> BB</item>
+
+        <item> CC</item>
+
+        <item> DD</item>
+
+        <item> EE</item>
+
+        <item> AA</item>
+
+        <item> BB</item>
+
+        <item> CC</item>
+
+        <item> DD</item>
+
+        <item> EE</item>
+    </string-array>
+
+</resources>
